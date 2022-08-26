@@ -1,6 +1,5 @@
 package org.scraper.controller;
 
-import javafx.application.Platform;
 
 import javax.swing.*;
 import java.awt.*;
